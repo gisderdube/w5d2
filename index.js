@@ -1,3 +1,3 @@
-console.log('Hello')
+console.log('adojöqwöjqweökqwer')
 
-console.log('Hello from Development')
+console.log('qweöjqwekjqweljk')
